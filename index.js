@@ -310,5 +310,4 @@ else{
 }
 })
 
-client.login("NTU5MzEwMDkzNzYyNDI4OTQ4.D30tOw.jxhMoUVuZ7sypbsp5HILSEKZBfM");
-//client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);
